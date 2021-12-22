@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @pragyanraj1022
+- 👀 I’m interested in programing and know more about coding.
+- 🌱 I’m currently learning Data science and programing.
+- 📫 E-mail : pragyanraj23@gmail.com
